@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="Currency">
+        <item>Dollar($)</item>
+        <item>Rupees(₹)</item>
+        <item>Euro(€)</item>
+        <item>Pound(£)</item>
+        <item>Yen(¥)</item>
+
+
+    </string-array>
+</resources>
